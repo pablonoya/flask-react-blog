@@ -8,7 +8,7 @@ venv
 
 
 # Enviroment Variables
-.env
+api/.env*
 
 # testing
 /coverage
